@@ -25,10 +25,13 @@
 
     
     
-4.  Review - 
-    Name - 
-    Username - 
-    City -
+4.  Review - The website is great but you can make the hover effect of the socials better by adding ("<<") this or  any other effect you like . Moreover, in the about
+    me area you can try using borders on the photo to make it look more clean. In the scroll me down the downward arrow can be removed and the arrow can be added in
+    the hover effect only as I mentioned above. Rest, the website is brillant and can be added in your projects.
+    
+    Name - Ena Tandon
+    Username - EnopE10
+    City - Delhi
     
     
 5.  Review - 
